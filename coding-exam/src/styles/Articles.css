@@ -1,0 +1,13 @@
+.articles-container{
+    padding: 30px auto;
+    text-align: center;
+}
+.article-btns{
+    font-weight: bold;
+    height: 30px;
+    width: 200px;
+    margin: 8px 0;;
+}
+.article-btns:hover{
+    cursor: pointer;
+}
